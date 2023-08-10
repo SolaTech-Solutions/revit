@@ -12,9 +12,6 @@
   <br>
 </p>
 
-
-![revit](https://github.com/unknownbrian008/revit/blob/main/static/revit.png?raw=true)
-
 # Install
 To install revit, run the following command:
 
